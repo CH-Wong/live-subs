@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+websockets
+deepgram-sdk
+python-multipart
